@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176980576413",
+    "project_id": "simuladoac2-85418",
+    "storage_bucket": "simuladoac2-85418.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176980576413:android:074fdd0310c6b85f446c74",
+        "android_client_info": {
+          "package_name": "com.company.simulado_ac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoyLYoREcFQJFSN1eEeHCVTWDf-ofAPzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176980576413:android:0792e379e46557d4446c74",
+        "android_client_info": {
+          "package_name": "com.mindlab.tarefa2710"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoyLYoREcFQJFSN1eEeHCVTWDf-ofAPzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
